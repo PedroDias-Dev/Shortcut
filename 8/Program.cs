@@ -10,7 +10,13 @@ namespace _8
             string senha = Console.ReadLine();
 
             // pois eh, muda ali, a senha agora eh o que voce quiser
-            if (senha == " "){
+            if (senha == "a"){
+                // obviamente mudadando o codigo, o aplicativo nao ira mais funcionar, entao pense nisso nas proximas fases
+                // em vez de executar o exe, executa aqui mesmo, ja que voce ta se achando o programador
+
+                // o exe pode conter informacoes adicionais, entao nao recomendo mexer no codigo
+                // seu boco
+                
                 goto continuacao;
             }
             else{
