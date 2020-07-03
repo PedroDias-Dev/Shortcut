@@ -9,7 +9,7 @@ namespace _6
 
         public process(){
 
-            string pasta = PATH.Split("/")[0];
+            string pasta = PATH.Split('/')[0];
 
             if (!Directory.Exists(pasta)) {
                 Directory.CreateDirectory(pasta);

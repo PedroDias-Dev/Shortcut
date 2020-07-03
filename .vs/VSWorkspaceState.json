@@ -1,10 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\2\\bin",
-    "\\2\\bin\\Debug",
-    "\\2\\bin\\Debug\\netcoreapp3.1"
+    "\\12\\codigo",
+    "\\12\\codigo\\bin",
+    "\\12\\codigo\\bin\\Debug",
+    "\\12\\codigo\\bin\\Debug\\netcoreapp3.1",
+    "\\13\\codigo",
+    "\\14",
+    "\\14\\codigo"
   ],
-  "SelectedNode": "\\3",
+  "SelectedNode": "\\14\\codigo\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

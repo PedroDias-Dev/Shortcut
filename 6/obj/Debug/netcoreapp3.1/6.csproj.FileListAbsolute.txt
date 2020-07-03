@@ -11,3 +11,29 @@ C:\Users\pedro\Documents\Programação\JogoEpico\6\obj\Debug\netcoreapp3.1\6.Ass
 C:\Users\pedro\Documents\Programação\JogoEpico\6\obj\Debug\netcoreapp3.1\6.dll
 C:\Users\pedro\Documents\Programação\JogoEpico\6\obj\Debug\netcoreapp3.1\6.pdb
 C:\Users\pedro\Documents\Programação\JogoEpico\6\obj\Debug\netcoreapp3.1\6.genruntimeconfig.cache
+D:\Download Backup\Shortcut-master\Shortcut-master\6\bin\Debug\netcoreapp3.1\6.exe
+D:\Download Backup\Shortcut-master\Shortcut-master\6\bin\Debug\netcoreapp3.1\6.deps.json
+D:\Download Backup\Shortcut-master\Shortcut-master\6\bin\Debug\netcoreapp3.1\6.runtimeconfig.json
+D:\Download Backup\Shortcut-master\Shortcut-master\6\bin\Debug\netcoreapp3.1\6.runtimeconfig.dev.json
+D:\Download Backup\Shortcut-master\Shortcut-master\6\bin\Debug\netcoreapp3.1\6.dll
+D:\Download Backup\Shortcut-master\Shortcut-master\6\bin\Debug\netcoreapp3.1\6.pdb
+D:\Download Backup\Shortcut-master\Shortcut-master\6\obj\Debug\netcoreapp3.1\6.csprojAssemblyReference.cache
+D:\Download Backup\Shortcut-master\Shortcut-master\6\obj\Debug\netcoreapp3.1\6.csproj.CoreCompileInputs.cache
+D:\Download Backup\Shortcut-master\Shortcut-master\6\obj\Debug\netcoreapp3.1\6.AssemblyInfoInputs.cache
+D:\Download Backup\Shortcut-master\Shortcut-master\6\obj\Debug\netcoreapp3.1\6.AssemblyInfo.cs
+D:\Download Backup\Shortcut-master\Shortcut-master\6\obj\Debug\netcoreapp3.1\6.dll
+D:\Download Backup\Shortcut-master\Shortcut-master\6\obj\Debug\netcoreapp3.1\6.pdb
+D:\Download Backup\Shortcut-master\Shortcut-master\6\obj\Debug\netcoreapp3.1\6.genruntimeconfig.cache
+C:\Users\pedro\Documents\Programação\Shortcut\6\bin\Debug\netcoreapp3.1\6.exe
+C:\Users\pedro\Documents\Programação\Shortcut\6\bin\Debug\netcoreapp3.1\6.deps.json
+C:\Users\pedro\Documents\Programação\Shortcut\6\bin\Debug\netcoreapp3.1\6.runtimeconfig.json
+C:\Users\pedro\Documents\Programação\Shortcut\6\bin\Debug\netcoreapp3.1\6.runtimeconfig.dev.json
+C:\Users\pedro\Documents\Programação\Shortcut\6\bin\Debug\netcoreapp3.1\6.dll
+C:\Users\pedro\Documents\Programação\Shortcut\6\bin\Debug\netcoreapp3.1\6.pdb
+C:\Users\pedro\Documents\Programação\Shortcut\6\obj\Debug\netcoreapp3.1\6.csprojAssemblyReference.cache
+C:\Users\pedro\Documents\Programação\Shortcut\6\obj\Debug\netcoreapp3.1\6.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Programação\Shortcut\6\obj\Debug\netcoreapp3.1\6.AssemblyInfoInputs.cache
+C:\Users\pedro\Documents\Programação\Shortcut\6\obj\Debug\netcoreapp3.1\6.AssemblyInfo.cs
+C:\Users\pedro\Documents\Programação\Shortcut\6\obj\Debug\netcoreapp3.1\6.dll
+C:\Users\pedro\Documents\Programação\Shortcut\6\obj\Debug\netcoreapp3.1\6.pdb
+C:\Users\pedro\Documents\Programação\Shortcut\6\obj\Debug\netcoreapp3.1\6.genruntimeconfig.cache

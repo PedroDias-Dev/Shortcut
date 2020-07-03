@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\Documents\\Programação\\JogoEpico\\8\\8.csproj": {}
+    "C:\\Users\\pedro\\Documents\\Programação\\Shortcut\\8\\8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\Documents\\Programação\\JogoEpico\\8\\8.csproj": {
+    "C:\\Users\\pedro\\Documents\\Programação\\Shortcut\\8\\8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\Documents\\Programação\\JogoEpico\\8\\8.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\Documents\\Programação\\Shortcut\\8\\8.csproj",
         "projectName": "8",
-        "projectPath": "C:\\Users\\pedro\\Documents\\Programação\\JogoEpico\\8\\8.csproj",
+        "projectPath": "C:\\Users\\pedro\\Documents\\Programação\\Shortcut\\8\\8.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\Documents\\Programação\\JogoEpico\\8\\obj\\",
+        "outputPath": "C:\\Users\\pedro\\Documents\\Programação\\Shortcut\\8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",

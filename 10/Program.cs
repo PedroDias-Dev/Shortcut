@@ -13,6 +13,7 @@ namespace _10
             }
             else{
                 System.Console.WriteLine("bem, voce errou a senha. tente novamente ");
+                Console.ReadLine();
                 System.Environment.Exit(0);
             }
 

@@ -10,7 +10,7 @@ namespace _8
             string senha = Console.ReadLine();
 
             // pois eh, muda ali, a senha agora eh o que voce quiser
-            if (senha == "a"){
+            if (senha == "A"){
                 // obviamente mudadando o codigo, o aplicativo nao ira mais funcionar, entao pense nisso nas proximas fases
                 // em vez de executar o exe, executa aqui mesmo, ja que voce ta se achando o programador
 
@@ -21,6 +21,7 @@ namespace _8
             }
             else{
                 System.Console.WriteLine("bem, voce errou a senha. tente novamente ");
+                Console.ReadLine();
                 System.Environment.Exit(0);
             }
 

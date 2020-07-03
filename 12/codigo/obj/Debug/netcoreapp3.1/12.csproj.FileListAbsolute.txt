@@ -1,0 +1,13 @@
+C:\Users\pedro\Documents\Programação\Shortcut\12\codigo\bin\Debug\netcoreapp3.1\12.exe
+C:\Users\pedro\Documents\Programação\Shortcut\12\codigo\bin\Debug\netcoreapp3.1\12.deps.json
+C:\Users\pedro\Documents\Programação\Shortcut\12\codigo\bin\Debug\netcoreapp3.1\12.runtimeconfig.json
+C:\Users\pedro\Documents\Programação\Shortcut\12\codigo\bin\Debug\netcoreapp3.1\12.runtimeconfig.dev.json
+C:\Users\pedro\Documents\Programação\Shortcut\12\codigo\bin\Debug\netcoreapp3.1\12.dll
+C:\Users\pedro\Documents\Programação\Shortcut\12\codigo\bin\Debug\netcoreapp3.1\12.pdb
+C:\Users\pedro\Documents\Programação\Shortcut\12\codigo\obj\Debug\netcoreapp3.1\12.csprojAssemblyReference.cache
+C:\Users\pedro\Documents\Programação\Shortcut\12\codigo\obj\Debug\netcoreapp3.1\12.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Programação\Shortcut\12\codigo\obj\Debug\netcoreapp3.1\12.AssemblyInfoInputs.cache
+C:\Users\pedro\Documents\Programação\Shortcut\12\codigo\obj\Debug\netcoreapp3.1\12.AssemblyInfo.cs
+C:\Users\pedro\Documents\Programação\Shortcut\12\codigo\obj\Debug\netcoreapp3.1\12.dll
+C:\Users\pedro\Documents\Programação\Shortcut\12\codigo\obj\Debug\netcoreapp3.1\12.pdb
+C:\Users\pedro\Documents\Programação\Shortcut\12\codigo\obj\Debug\netcoreapp3.1\12.genruntimeconfig.cache

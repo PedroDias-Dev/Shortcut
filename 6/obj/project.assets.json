@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\Documents\\Programação\\JogoEpico\\6\\6.csproj",
+      "projectUniqueName": "C:\\Users\\pedro\\Documents\\Programação\\Shortcut\\6\\6.csproj",
       "projectName": "6",
-      "projectPath": "C:\\Users\\pedro\\Documents\\Programação\\JogoEpico\\6\\6.csproj",
+      "projectPath": "C:\\Users\\pedro\\Documents\\Programação\\Shortcut\\6\\6.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\Documents\\Programação\\JogoEpico\\6\\obj\\",
+      "outputPath": "C:\\Users\\pedro\\Documents\\Programação\\Shortcut\\6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",

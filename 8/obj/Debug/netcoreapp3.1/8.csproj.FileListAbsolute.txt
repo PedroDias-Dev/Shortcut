@@ -11,3 +11,16 @@ C:\Users\pedro\Documents\Programação\JogoEpico\8\bin\Debug\netcoreapp3.1\8.pdb
 C:\Users\pedro\Documents\Programação\JogoEpico\8\obj\Debug\netcoreapp3.1\8.dll
 C:\Users\pedro\Documents\Programação\JogoEpico\8\obj\Debug\netcoreapp3.1\8.pdb
 C:\Users\pedro\Documents\Programação\JogoEpico\8\obj\Debug\netcoreapp3.1\8.genruntimeconfig.cache
+C:\Users\pedro\Documents\Programação\Shortcut\8\bin\Debug\netcoreapp3.1\8.exe
+C:\Users\pedro\Documents\Programação\Shortcut\8\bin\Debug\netcoreapp3.1\8.deps.json
+C:\Users\pedro\Documents\Programação\Shortcut\8\bin\Debug\netcoreapp3.1\8.runtimeconfig.json
+C:\Users\pedro\Documents\Programação\Shortcut\8\bin\Debug\netcoreapp3.1\8.runtimeconfig.dev.json
+C:\Users\pedro\Documents\Programação\Shortcut\8\bin\Debug\netcoreapp3.1\8.dll
+C:\Users\pedro\Documents\Programação\Shortcut\8\bin\Debug\netcoreapp3.1\8.pdb
+C:\Users\pedro\Documents\Programação\Shortcut\8\obj\Debug\netcoreapp3.1\8.csprojAssemblyReference.cache
+C:\Users\pedro\Documents\Programação\Shortcut\8\obj\Debug\netcoreapp3.1\8.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Programação\Shortcut\8\obj\Debug\netcoreapp3.1\8.AssemblyInfoInputs.cache
+C:\Users\pedro\Documents\Programação\Shortcut\8\obj\Debug\netcoreapp3.1\8.AssemblyInfo.cs
+C:\Users\pedro\Documents\Programação\Shortcut\8\obj\Debug\netcoreapp3.1\8.dll
+C:\Users\pedro\Documents\Programação\Shortcut\8\obj\Debug\netcoreapp3.1\8.pdb
+C:\Users\pedro\Documents\Programação\Shortcut\8\obj\Debug\netcoreapp3.1\8.genruntimeconfig.cache
